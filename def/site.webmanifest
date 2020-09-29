@@ -1,14 +1,14 @@
 {
-    "name": "Debrief",
-    "short_name": "Debrief",
+    "name": "私人空间",
+    "short_name": "私人空间",
     "icons": [
         {
-            "src": "/public/icons/android-chrome-192x192.png",
+            "src": "/gh/bymoye/cdn@1.4/def/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/public/icons/android-chrome-512x512.png",
+            "src": "/gh/bymoye/cdn@1.4/def/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
